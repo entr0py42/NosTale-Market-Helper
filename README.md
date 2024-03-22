@@ -15,7 +15,7 @@ Download, run requirements.bat (will take some time), run main.py
 - Plots the price change
 
 
-## Screenshots
+## Usage
 
 ### Click on Capture Coordinates then hover over the listing
 ![Click on Capture Coordinates then hover over the listing](/screenshots/1.png?raw=true "Click on Capture Coordinates then hover over the listing")
