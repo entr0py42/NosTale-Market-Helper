@@ -19,6 +19,12 @@ Download, run requirements.bat (will take some time), run main.py
 
 ![Click on Capture Coordinates then hover over the listing](/screenshots/1.png?raw=true "Click on Capture Coordinates then hover over the listing")
 
+<picture>
+  <img alt="Click on Capture Coordinates then hover over the listing" src="/screenshots/1.png?raw=true">
+</picture>
+
+
+
 ![Press a key without clicking anywhere else](/screenshots/2.png?raw=true "Press a key without clicking anywhere else")
 
 ![Capture screenshot](/screenshots/3.png?raw=true "Capture screenshot")
