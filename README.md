@@ -17,20 +17,20 @@ Download, run requirements.bat (will take some time), run main.py
 
 ## Screenshots
 
+### Click on Capture Coordinates then hover over the listing
 ![Click on Capture Coordinates then hover over the listing](/screenshots/1.png?raw=true "Click on Capture Coordinates then hover over the listing")
 
-<picture>
-  <img alt="Click on Capture Coordinates then hover over the listing" src="/screenshots/1.png?raw=true">
-</picture>
-
-
-
+### Press a key without clicking anywhere else
 ![Press a key without clicking anywhere else](/screenshots/2.png?raw=true "Press a key without clicking anywhere else")
 
+### Capture screenshot
 ![Capture screenshot](/screenshots/3.png?raw=true "Capture screenshot")
 
+### Fix mistakes
 ![Fix mistakes](/screenshots/4.png?raw=true "Fix mistakes")
 
+### Add item
 ![Add item](/screenshots/4.png?raw=true "Add item")
 
+### Filter & plot the data
 ![Filter & plot the data](/screenshots/plot.png?raw=true "Filter & plot the data")
