@@ -194,9 +194,7 @@ class GUI(tk.Tk):
                                 f"{item[0]}\t{item[1]} - {item[2]} - {item[3]}")  # Display filtered data in the listbox
 
     # This is to plot the price change of the filtered items throughout time.
-    # It does not work as intended at all.
     # It sometimes uses scientific notation
-    # It doesn't plot the x-axis relative to the date
     # It shows extra items if their name is in the desired item's name. Such as "apple" and "apple pie".
     def show_price_change(self):
         filter_text = self.filter_entry.get()
